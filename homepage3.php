@@ -36,5 +36,6 @@ position:relative;
     <body>
 <a href="verify.php" class="button" target="_blank">pay new supplier</a>
 <a href="transfer.php" class="button" target="_blank">Select from existing list of suppliers</a>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
     </body>
 </html>
